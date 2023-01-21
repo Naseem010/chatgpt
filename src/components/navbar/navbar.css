@@ -89,13 +89,13 @@ box-shadow: 0 0 5 rgba(0,0,0,0.2);
         display: none;
     }
     .gpt3__navbar-menu{
-        display: flex;
+        display: flex; 
     }
-}
+}  
 @media screen and (max-width:700px){
     .gpt3__navbar{
         padding:2rem 4rem;
-    }
+    } 
     .gpt3__navbar-menu_container{
         top: 90px;
         margin-right: 80px;
@@ -107,7 +107,7 @@ box-shadow: 0 0 5 rgba(0,0,0,0.2);
         padding:2rem;
     }
     .gpt3__navbar-sign{
-        display: none; 
+        display: none;
     }
     .gpt3__navbar-menu_container{
         top: 80px;
