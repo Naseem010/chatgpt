@@ -8,5 +8,7 @@
     margin: 0 1rem;
 }
 @media screen and (max-width:1050px) {
-    
+    .gpt3__brand-links img{
+        margin-top: 20px;
+    }
 }
